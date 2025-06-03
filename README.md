@@ -1,4 +1,4 @@
-# AOS Device Loader (aosdl.py)
+# AOS Downloader (aosdl.py)
 
 ## Overview
 The `aosdl.py` script automates the process of connecting to multiple devices via SSH, identifying their platform family, and downloading the appropriate AOS images to the devices' flash storage.
